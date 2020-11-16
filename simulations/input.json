@@ -1,0 +1,12 @@
+{
+	"numgene": 6,
+	"crossover": "Single Point",
+	"pcross": 0.7,
+	"parents": 7,
+	"mutation": "Random",
+	"pmut": 0.02,
+	"percentmutgene": 11,
+	"selection": "sss",
+	"population": 111,
+	"generations": 11
+}
